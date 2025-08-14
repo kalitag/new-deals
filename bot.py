@@ -620,10 +620,10 @@ class ProductBot:
 
 def main():
     """Main function to run the bot"""
-    TOKEN = "YOUR_BOT_TOKEN_HERE"
+    TOKEN = "8327175937:AAGoWZPlDM_UX7efZv6_7vJMHDsrZ3-EyIA"
     
-    if TOKEN == "YOUR_BOT_TOKEN_HERE":
-        print("ERROR: Please replace 'YOUR_BOT_TOKEN_HERE' with your actual bot token in bot.py")
+    if TOKEN == "8327175937:AAGoWZPlDM_UX7efZv6_7vJMHDsrZ3-EyIA":
+        print("ERROR: Please replace '8327175937:AAGoWZPlDM_UX7efZv6_7vJMHDsrZ3-EyIA' with your actual bot token in bot.py")
         print("Get your token from @BotFather on Telegram")
         input("Press Enter to exit...")
         return
